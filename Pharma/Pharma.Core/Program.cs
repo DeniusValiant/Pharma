@@ -10,6 +10,7 @@ namespace Pharma.Core
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
